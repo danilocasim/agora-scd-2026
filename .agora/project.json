@@ -1,0 +1,7 @@
+{
+  "projectId": "1xTE22n10",
+  "projectName": "workshop",
+  "region": "global",
+  "template": "nextjs",
+  "envPath": ".env.local"
+}
